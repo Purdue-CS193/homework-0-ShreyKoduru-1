@@ -12,11 +12,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Shrey Koduru's First CS193 Homework
-## Header 2
-### Header 3
 
 - I love CS193 because github is one of the best tools to use as a computer science major.
 - We had our first class last week, and I love the layout of the class so far.
+- No tests or exams
+- The quizess are a relief from all my other classes
 
 
 **Bold** and _Italic_ and `Code` text
